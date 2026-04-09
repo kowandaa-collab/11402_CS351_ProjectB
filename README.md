@@ -1,2 +1,1 @@
-# 11402_CS351_ProjectB
-Project B - CSV Mini Database &amp; Query Engine
+# Project B - CSV Mini Database and Query Engine
